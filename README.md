@@ -30,9 +30,7 @@
 name: Gabriel Saguma
 current_focus:
   - Translation Workflow Optimization
-
-currently_studying:
-  Master of Translation Technologies at UOC. 
+  - Research and Education
 
 languages:
   - Spanish (Native)

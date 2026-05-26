@@ -46,5 +46,14 @@ interests:
 # ⚙️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,vercel,linux,git,github,vscode"/>
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)  
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)  
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </p>

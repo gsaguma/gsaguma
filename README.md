@@ -43,11 +43,9 @@ education:
 
 languages:
   - Spanish (Native)
-  - English (Professional)
+  - English, French, Portuguese, and Chinese.
 
 interests:
   - NLP
   - Localization Workflows
-  - UX for Linguists
   - Terminology Management
-  - AI-assisted Translation

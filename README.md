@@ -24,7 +24,7 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Gabriel Saguma
@@ -43,10 +43,10 @@ interests:
   - Localization Workflows
 ```
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)  ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)  ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-# 🌐 Localization Stack
+## 🌐 Localization Stack
 
-![memoQ](https://img.shields.io/badge/-memoQ-00AEEF?style=flat&logoColor=white)  ![SDL Trados](https://img.shields.io/badge/-SDL%20Trados-7A3E9D?style=flat&logoColor=white)  ![Phrase](https://img.shields.io/badge/-Phrase-5B21B6?style=flat&logoColor=white)  ![OmegaT](https://img.shields.io/badge/-OmegaT-2E8B57?style=flat&logoColor=white)  ![Smartcat](https://img.shields.io/badge/-Smartcat-FF6B00?style=flat&logoColor=white)  ![MateCat](https://img.shields.io/badge/-MateCat-00C4B3?style=flat&logoColor=white)  ![Bureau Works](https://img.shields.io/badge/-Bureau%20Works-111827?style=flat&logoColor=white)  ![Crowdin](https://img.shields.io/badge/-Crowdin-2AC769?style=flat&logoColor=white)  ![BasicCAT](https://img.shields.io/badge/-BasicCAT-2563EB?style=flat&logoColor=white)
+![memoQ](https://img.shields.io/badge/-memoQ-00AEEF?style=flat&logoColor=white)  ![SDL Trados](https://img.shields.io/badge/-SDL%20Trados-7A3E9D?style=flat&logoColor=white)  ![Phrase](https://img.shields.io/badge/-Phrase-5B21B6?style=flat&logoColor=white)  ![OmegaT](https://img.shields.io/badge/-OmegaT-2E8B57?style=flat&logoColor=white)  ![Smartcat](https://img.shields.io/badge/-Smartcat-FF6B00?style=flat&logoColor=white)  ![MateCat](https://img.shields.io/badge/-MateCat-00C4B3?style=flat&logoColor=white)  ![Bureau Works](https://img.shields.io/badge/-Bureau%20Works-111827?style=flat&logoColor=white)  ![Crowdin](https://img.shields.io/badge/-Crowdin-2AC769?style=flat&logoColor=white)  ![BasicCAT](https://img.shields.io/badge/-BasicCAT-2563EB?style=flat&logoColor=white) ![Okapi Framework](https://img.shields.io/badge/-Okapi%20Framework-8B5CF6?style=flat&logoColor=white)

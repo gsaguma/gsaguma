@@ -28,18 +28,11 @@
 
 ```yaml
 name: Gabriel Saguma
-located_in: Peru
 current_focus:
-  - Localization Engineering
-  - Translation Technology
-  - CAT Tool Integration
-  - DTP Automation
-  - Interpretation Training Software
+  - Translation Workflow Optimization
 
-education:
-  - BA in Translation and Interpreting
-  - Academic Mobility Program - UAEMex
-  - DTP for Language Service Providers
+currently_studying:
+  Master of Translation Technologies at UOC. 
 
 languages:
   - Spanish (Native)
@@ -48,4 +41,3 @@ languages:
 interests:
   - NLP
   - Localization Workflows
-  - Terminology Management

@@ -1,16 +1,53 @@
-## Hi there 👋
+<!-- ========================================= -->
+<!--           GITHUB PROFILE README           -->
+<!-- ========================================= -->
 
-<!--
-**gsaguma/gsaguma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hi there 👋 I'm Gabriel Saguma
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Translator • Localization Engineer • DTP Specialist • Project Manager
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/gsaguma">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  
+  <a href="mailto:saguma.traductor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=GabrielSaguma&style=for-the-badge">
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+name: Gabriel Saguma
+located_in: Peru
+current_focus:
+  - Localization Engineering
+  - Translation Technology
+  - CAT Tool Integration
+  - DTP Automation
+  - Interpretation Training Software
+
+education:
+  - BA in Translation and Interpreting
+  - Academic Mobility Program - UAEMex
+  - DTP for Language Service Providers
+
+languages:
+  - Spanish (Native)
+  - English (Professional)
+
+interests:
+  - NLP
+  - Localization Workflows
+  - UX for Linguists
+  - Terminology Management
+  - AI-assisted Translation
